@@ -24,7 +24,14 @@ Also, pass the amount of money that you want to spend.
 Example
 =========
 
-`node findPair.js prices.js 2500`
+`node findPair.js prices.json 2500`
+
+returns:
+
+```
+[ { name: 'Candy Bar', price: 500 },
+  { name: 'Earmuffs', price: 2000 } ]
+  ```
 
 Testing
 ========
