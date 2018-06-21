@@ -1,0 +1,11 @@
+{
+  "name": "giftcard",
+  "version": "1.0.0",
+  "description": "find two items with a value less than or equal to a specified amount",
+  "main": "findPair.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Sam Hill",
+  "license": "ISC"
+}

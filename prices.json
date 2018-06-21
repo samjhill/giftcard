@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Candy Bar",
+        "price": 500
+    },
+    {
+        "name": "Paperback Book",
+        "price": 700
+    },
+    {
+        "name": "Detergent",
+        "price": 1000
+    },
+    {
+        "name": "Headphones",
+        "price": 1400
+    },
+    {
+        "name": "Earmuffs",
+        "price": 2000
+    },
+    {
+        "name": "Bluetooth Stereo",
+        "price": 6000
+    }
+]
